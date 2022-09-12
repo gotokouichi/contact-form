@@ -16,9 +16,7 @@
  
             お問い合わせ内容（必須）<br />
             <textarea name="content" cols="50" rows="5"></textarea><br />
- 
             <br />
- 
             <input type="submit" value="送信" />
         </form>
     </body>
